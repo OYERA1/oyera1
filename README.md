@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey!👋
 
 - 🌱 I’m currently learning: "JavaScript, React, CSS, NodeJS, SQL"
 - 🤔 I’m looking for help with JavaScript, React
