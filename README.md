@@ -1,6 +1,6 @@
 ### Hey!
 
-- I’m currently learning: "React, NextJs, TypeScript, C#, .NET"
+- I’m currently learning: "React, NextJs, TypeScript"
 - I’m looking for a internship or junior job
 - Where you can reach me: 7.chiacherini@gmail.com 
 - Link to my CV in portuguese: https://onlinecurriculo.com.br/r/b7W6yWGdg
