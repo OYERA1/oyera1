@@ -45,7 +45,7 @@
 <ul>
   <li>Technology and software</li>
   <li>RPG Games</li>
-  <li>learn new idioms</li>
+  <li>Learn new idioms</li>
 </ul>
 
 ###
