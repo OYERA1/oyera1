@@ -23,7 +23,7 @@
     <img src="https://emoji.beeimg.com/🇬🇧/23" alt="🇬🇧"/>
   </li>
 <li>
-  <a href="https://docs.google.com/document/d/19SmRJ-vsaNziFNzLsKDwD8Ysaniyiw8EJw8qeOkd8Pg/edit?usp=sharing" target="_blank">
+  <a href="https://docs.google.com/document/d/1MWgI3rSEYd4Vgnrba-S2SyUtBaQR_69Jv6PkAeSn40U/edit?usp=sharing" target="_blank">
     My Curriculum Vitae in Portuguese
     <img src="https://emoji.beeimg.com/🇧🇷/23" alt="🇧🇷"/>
   </li>
